@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+I made this portfolio to show off my knowledge of react, and advertise myself to employers. It includes links to the work I've done in the past as well as a nice layout and my resume. Below are instructions on how to get the app to run on your computer.
 
 ### `npm start`
 
